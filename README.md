@@ -38,7 +38,7 @@ Hi, I'm [Your Name]!
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="33%">
       <h3 align="center">LSTM 기반 시계열 데이터를 활용한 평균 온도 예측 모델</h3>
       <div align="center">
         <a href="https://github.com/leegyulim/Temperature-Prediction-LSTM.git" target="_blank">
@@ -64,7 +64,7 @@ Hi, I'm [Your Name]!
         </ul>
       </details>
     </td>
-    <td width="50%">
+    <td width="33%">
       <h3 align="center">PHP/MariaDB 게시판 CI/CD 파이프라인 구축</h3>
       <div align="center">
         <a href="https://github.com/leegyulim/my-php-board-project" target="_blank">
@@ -90,7 +90,7 @@ Hi, I'm [Your Name]!
         </ul>
       </details>
     </td>
-    <td width="50%">
+    <td width="33%">
       <h3 align="center">단축 URL 서비스 CI/CD 파이프라인 구축</h3>
        <div align="center">
         <a href="https://github.com/leegyulim/my-short-url-app" target="_blank">
