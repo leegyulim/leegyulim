@@ -6,40 +6,22 @@ Hi, I'm [Your Name]!
 <div align="center">
   <img src="[![search pstatic](https://github.com/user-attachments/assets/15cfbad5-73cf-471b-b704-b1e6c65b63ab)]" width="800"/>
   <h1> 안녕하세요! 👋, 개발자 이규림입니다. </h1>
-  <p> 
-    <strong>클라우드 환경에서 CI/CD 파이프라인과 인프라 자동화(IaC)를 구축하여, 개발 생산성과 서비스 안정성을 높이는 데 기여하는 것을 목표로 하고 있습니다.</strong> 
-  </p>
 </div>
-<br/>
-
-<!-- 2. ABOUT ME -->
-## 👨‍💻 About Me
-
-- 💡 코드 한 줄이 실제 서비스가 되기까지의 전체 흐름을 이해하고, 그 과정에서 발생하는 문제를 해결하며 견고한 시스템을 구축하는 것에 큰 흥미를 느낍니다.
-- 🌱 현재 DevOps와 클라우드 네이티브 기술을 집중적으로 학습하며 성장하고 있습니다.
-- ⚡ 새로운 기술을 배우고, 자동화를 통해 비효율을 개선하는 과정을 즐깁니다.
-
-<br/>
 
 <!-- 3. SKILLS -->
 ## 🛠️ My Tech Stack & Tools
 
 > 제가 프로젝트에서 사용해 본 기술들입니다.
 
-#### 🚀 Cloud, CI/CD & IaC
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-#### 👨‍💻 Programming & Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-#### 📊 Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
