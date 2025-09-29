@@ -34,7 +34,7 @@ Hi, I'm [Your Name]!
 <!-- 4. FEATURED PROJECTS -->
 ## ✨ Featured Projects
 
-> 제가 진행했던 주요 프로젝트들입니다. 자세한 내용은 각 저장소의 README를 참고해주세요.
+> 제가 진행했던 주요 프로젝트들입니다.
 
 <table>
   <tr>
