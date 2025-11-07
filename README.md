@@ -5,7 +5,7 @@ Hi, I'm [Your Name]!
 <!-- 1. HEADER -->
 <div align="center">
   <img src="[![search pstatic](https://github.com/user-attachments/assets/15cfbad5-73cf-471b-b704-b1e6c65b63ab)]" width="800"/>
-  <h1> 안녕하세요! 👋, 엔지니어 이규림입니다. </h1>
+  <h1> 안녕하세요!👋 엔지니어 이규림입니다. </h1>
 </div>
 
 <!-- 3. SKILLS -->
