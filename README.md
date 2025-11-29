@@ -124,9 +124,9 @@ Hi, I'm [Your Name]!
 ## 📈 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leegyulim&show_icons=true&theme=radical&rank_icon=github" alt="leegyulim's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=leegyulim&show_icons=true&theme=radical&rank_icon=github" height="180" alt="leegyulim's GitHub stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leegyulim&layout=compact&theme=radical" alt="leegyulim's top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leegyulim&layout=compact&theme=radical" height="180" alt="leegyulim's top languages" />
 </div>
 
 <br/>
