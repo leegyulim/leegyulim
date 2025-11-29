@@ -118,18 +118,7 @@ Hi, I'm [Your Name]!
   </tr>
 </table>
 
-<br/>
 
-<!-- 5. GITHUB STATS -->
-## 📈 My GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leegyulim&show_icons=true&theme=radical&rank_icon=github" height="180" alt="leegyulim's GitHub stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leegyulim&layout=compact&theme=radical" height="180" alt="leegyulim's top languages" />
-</div>
-
-<br/>
 
 <!-- 6. CONTACT -->
 ## 📫 How to Reach Me
